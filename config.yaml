@@ -1,0 +1,8 @@
+persistence:
+  enabled: false
+  labels:
+    # Add default labels for the volumeClaimTemplate fo the StatefulSet
+    enabled: false
+  annotations: {}
+
+
